@@ -13,19 +13,11 @@ This project focuses on exploring, analyzing, and modeling **Airbnb listings dat
 
 ---
 
-## 📁 Project Structure
+## 📷 Power BI Dashboard
 
-```
-airbnb-price-demand-analysis/
-├── data/                # Raw and cleaned datasets
-├── notebooks/           # Jupyter notebooks for EDA and modeling
-├── models/              # Saved ML models
-├── visualizations/      # Plots and charts
-├── src/                 # Scripts for data processing, modeling, etc.
-├── requirements.txt     # Python dependencies
-├── README.md            # Project overview and instructions
-└── report.pdf           # Final analysis report (optional)
-```
+Here’s a glimpse of the interactive dashboard created using Power BI:
+
+![Dashboard Screenshot](C:\Users\dell\Desktop\YAHYA\PROJECTS\Airbnb_analysis/Power BI Desktop 5_26_2025 6_50_47 PM.png)
 
 ---
 
