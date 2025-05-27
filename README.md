@@ -37,7 +37,7 @@ This project focuses on exploring, analyzing, and modeling **Airbnb listings dat
 
 ## 📂 Dataset
 
-We used publicly available Airbnb datasets from sources like:
+I used publicly available Airbnb datasets from sources like:
 - [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
 - [Kaggle Datasets](https://www.kaggle.com/)
 
@@ -59,32 +59,6 @@ Typical fields include:
 - Identified key factors driving listing prices such as location, number of bedrooms, and amenities.
 - Found seasonal and weekly demand patterns, especially in tourist-heavy areas.
 - Built a regression model with an R² score of ~0.85 (example) to predict listing prices.
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/airbnb-price-demand-analysis.git
-   cd airbnb-price-demand-analysis
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run notebooks**
-   - Navigate to the `notebooks/` folder to start exploring.
-
----
-
-## 📚 Future Improvements
-
-- Incorporate NLP on reviews for sentiment analysis.
-- Use deep learning models for better accuracy.
-- Deploy a web dashboard using Streamlit or Flask.
 
 ---
 
